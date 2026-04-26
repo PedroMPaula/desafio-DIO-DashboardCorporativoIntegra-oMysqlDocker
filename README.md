@@ -6,6 +6,7 @@
 ## Visão Geral
 
 Este projeto implementa o desafio de coleta e transformação de dados com Power BI usando a base **Company**, conectada a um MySQL **local** (via Docker), eliminando a necessidade de uma instância na Azure.
+**Dashboard simples, focando na integraçã o com Mysql**
 
 ---
 
